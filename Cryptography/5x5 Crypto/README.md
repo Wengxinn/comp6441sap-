@@ -1,7 +1,7 @@
 # 5x5 Crypto
 
 ## [CTFlearn Challenge](https://ctflearn.com/challenge/263)
-<img src="5x5 Crypto - solved.png">
+<img src="5x5 crypto - solved.png">
 
 ## Solutions
 ### Step 1:
