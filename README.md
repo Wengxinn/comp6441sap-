@@ -13,4 +13,4 @@ I have attempted various challenges, which can be catogorised into:
 4. [Reverse Engineering](https://github.com/Wengxinn/comp6441sap-/tree/main/Reverse_Engineering)
 5. [Web](https://github.com/Wengxinn/comp6441sap-/tree/main/Web)
 
-For each challenge, I have include a complete and comprehensive write-up solutions as well as all the files required. 
+For each challenge, I have included a complete and comprehensive write-up solutions as well as all the files required. 
